@@ -3,7 +3,7 @@ A Victoria 2 mod that makes the game more cursed. This mod changes the graphics 
  
 //TODO insert screenshot here.
  
-##Installation instructions:
+## Installation instructions:
 1. Download the mod by clicking the green Code button, then Download ZIP.
 2. Extract the folder to your game directory. If you use Steam, the folder is mostly likely `C:\Program Files (x86)\Steam\steamapps\commmon\Victoria 2\mod`
 3. Go to that folder. You should see a folder named Victoria-2-Cursed-main. Rename that folder to "Cursed", without the quotation marks.
