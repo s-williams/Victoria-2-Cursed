@@ -10,8 +10,16 @@ A Victoria 2 mod that makes the game more cursed. This mod changes the graphics 
 This mod is also on [ModDb](https://www.moddb.com/mods/cursed-deep-fried).
  
 ## Installation instructions:
-1. Download the mod by clicking the green Code button, then Download ZIP.
-2. Extract the folder to your game directory. If you use Steam, the folder is mostly likely `C:\Program Files (x86)\Steam\steamapps\commmon\Victoria 2\mod`
+
+Latest official release:
+
+1. Download the mod by clicking [here](https://github.com/s-williams/Victoria-2-Cursed/releases), find the latest release and download the asset called Cursed-x.zip (where x.x is the version number)
+2. Extract the folder to your game mod directory. If you use Steam, the folder is mostly likely `C:\Program Files (x86)\Steam\steamapps\commmon\Victoria 2\mod`
+
+Latest version:
+
+1. Download the mod by clicking the green Code button, then Download ZIP or click [here](https://github.com/s-williams/Victoria-2-Cursed/archive/master.zip).
+2. Extract the folder to your game mod directory. If you use Steam, the folder is mostly likely `C:\Program Files (x86)\Steam\steamapps\commmon\Victoria 2\mod`
 3. Go to that folder. You should see a folder named Victoria-2-Cursed-master. Rename that folder to "Cursed", without the quotation marks.
 4. Go into the newly renamed Cursed folder and move Cursed.mod up one level to `C:\Program Files (x86)\Steam\steamapps\commmon\Victoria 2\mod`. This file will mostly likely be identified as a movie file by your computer.
 5. Launch the game. You should see "Cursed" as one of the options. Tick it and the mod should load.
