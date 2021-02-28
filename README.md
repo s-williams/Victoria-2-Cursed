@@ -13,8 +13,8 @@ This mod is also on [ModDb](https://www.moddb.com/mods/cursed-deep-fried).
 
 Latest official release:
 
-1. Download the mod by clicking [here](https://github.com/s-williams/Victoria-2-Cursed/releases), find the latest release and download the asset called Cursed-x.zip (where x.x is the version number)
-2. Extract the folder to your game mod directory. If you use Steam, the folder is mostly likely `C:\Program Files (x86)\Steam\steamapps\commmon\Victoria 2\mod`
+1. Download the mod by clicking [here](https://github.com/s-williams/Victoria-2-Cursed/releases), find the latest release and download the asset called Cursed-x.zip (where x is the version number).
+2. Extract the folder to your game mod directory. If you use Steam, the folder is mostly likely `C:\Program Files (x86)\Steam\steamapps\commmon\Victoria 2\mod`.
 
 Latest version:
 
