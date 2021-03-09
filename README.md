@@ -33,4 +33,4 @@ If you have ideas to make the mod more cursed, or fix any potential bugs, feel f
 * An edited version of [PyFry](https://github.com/codezoned/PyFry) was used to quickly deep fry a decent amount of the textures.
 * [Paint.NET](https://forums.getpaint.net/topic/112967-how-to-deep-fry-an-image/) was used for the rest.
 * Hiero Bitmap Font Tool was attempted to be used to change all the fonts to Comic Sans, but it was realised that Paradox Interactive's fonts were created non-standardly, and so that was abandoned, and instead the fonts were defaced with emojis and individual letter changes.
-
+* Audacity for sound effects and music.
